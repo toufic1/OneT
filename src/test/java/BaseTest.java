@@ -1,4 +1,4 @@
-
+package java;
 
 import AVBase.FirstPage;
 import AVBase.InitialPage;
