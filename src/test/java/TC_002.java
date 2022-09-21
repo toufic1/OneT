@@ -3,7 +3,7 @@ import Base.BaseTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-public class Tc_02 extends BaseTest {
+public class Tc_002 extends BaseTest {
 
     @Test
     public void First() throws InterruptedException {
